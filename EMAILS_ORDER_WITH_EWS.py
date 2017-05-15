@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: cp1250  -*-
-__author__ = 'Fekete András Demeter'
+__author__ = 'Fekete Andr√°s Demeter'
 
 from exchangelib import Configuration, Account, Credentials, NTLM, FileAttachment, Build, Version
 import time
